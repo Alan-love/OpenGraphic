@@ -545,6 +545,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [Terrain-Decorator](https://github.com/emrecancubukcu/Terrain-Decorator) lightweight terrain tool for unity3d
 * [ProceduralTerrain](https://github.com/theSoenke/ProceduralTerrain) Procedural voxel terrain generation in Unity
 * [Terrain3D](https://github.com/outobugi/Terrain3D) An editable terrain system for Godot 4, written in C++
+* [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) Unreal Engine smooth voxel terrain plugin
+* [VoxelSpace](https://github.com/s-macke/VoxelSpace) errain rendering algorithm in less than 20 lines of code
+* [Marching-Cubes-Terrain](https://github.com/Eldemarkki/Marching-Cubes-Terrain) Marching Cubes terrain implementation in Unity using the Job System and the Burst compiler
 #### Cloud
 * [volsample](https://github.com/huwb/volsample) Research on sampling methods for real-time volume rendering
 * [kode80CloudsUnity3D](https://github.com/kode80/kode80CloudsUnity3D) A realtime volumetric cloud rendering solution for Unity3D. 
@@ -688,22 +691,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [LowpolyOcean](https://github.com/JiongXiaGu/LowpolyOcean) low polygon water effect working in Unity
 * [Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity) Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley.  
 * [FlatShader](https://github.com/cjurjiu/FlatShader) A very simple shader which performs flatshading without the need for duplicating vertices when building the geometry.
-#### Voxel
-* [Magicavoxel](https://github.com/ephtracy/ephtracy.github.io/releases) http://ephtracy.github.io/
-* [UE4VoxelTerrain](https://github.com/bw2012/UE4VoxelTerrain) Unreal Engine 4: Smooth voxel terrian 
-* [VoxelPlugin](https://github.com/Phyronnaz/VoxelPlugin) Voxel plugin for Unreal Engine
-* [voxelizer](https://github.com/karimnaaji/voxelizer)  Header only mesh voxelizer in c99 
-* [gpu-physics-unity](https://github.com/jknightdoeswork/gpu-physics-unity)  A GPU Accelerated Voxel Physics Solver for Unity
-* [Field3D](https://github.com/imageworks/Field3D) A library for storing voxel data on disk and in memory.  
-* [magicavoxel-shaders](https://github.com/lachlanmcdonald/magicavoxel-shaders) Shaders for MagicaVoxel to simplify common and repetitive tasks.  
-* [UnityVOXFileImport](https://github.com/ray-cast/UnityVOXFileImport) A tool to import a .vox file for Unity's GameObject and Prefab
-* [Terasology](https://github.com/MovingBlocks/Terasology) open source voxel world http://terasology.org
-* [VoxelSpace](https://github.com/s-macke/VoxelSpace) errain rendering algorithm in less than 20 lines of code 
-* [unity-voxel](https://github.com/mattatz/unity-voxel) Mesh voxelization for Unity.
-* [tsdf-fusion](https://github.com/andyzeng/tsdf-fusion) Fuse multiple depth frames into a TSDF voxel volume.
-* [Marching-Cubes-Terrain](https://github.com/Eldemarkki/Marching-Cubes-Terrain) Marching Cubes terrain implementation in Unity using the Job System and the Burst compiler
-* [smoothvoxels](https://github.com/jel-app/smoothvoxels)
-* [goxel](https://github.com/guillaumechereau/goxel) Goxel: Free and Open Source 3D Voxel Editor
 
 ## Volume Rendering
 #### RayMarch
@@ -824,7 +811,17 @@ Graphic Engine &amp; Game Engine open source list！
 * [distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) A library of distance and occlusion generation routines
 * [rust_test](https://github.com/sebbbi/rust_test) :thumbsup: 
 * [sdf-explorer](https://github.com/tovacinni/sdf-explorer)  JCGT / I3D paper, "A Dataset and Explorer for 3D Signed Distance Functions".
-
+#### Voxel
+* [VoxelPlugin](https://github.com/VoxelPlugin/VoxelPluginFreeLegacy) Voxel plugin for Unreal Engine [voxelplugin.com](https://voxelplugin.com/)
+* [voxelizer](https://github.com/karimnaaji/voxelizer)  Header only mesh voxelizer in c99 
+* [unity-voxel](https://github.com/mattatz/unity-voxel) Mesh voxelization for Unity.
+* [Terasology](https://github.com/MovingBlocks/Terasology) open source voxel world http://terasology.org
+* [goxel](https://github.com/guillaumechereau/goxel) Goxel: Free and Open Source 3D Voxel Editor
+* [Magicavoxel](https://github.com/ephtracy/ephtracy.github.io/releases) http://ephtracy.github.io/
+* [magicavoxel-shaders](https://github.com/lachlanmcdonald/magicavoxel-shaders) Shaders for MagicaVoxel to simplify common and repetitive tasks.  
+* [UnityVOXFileImport](https://github.com/ray-cast/UnityVOXFileImport) A tool to import a .vox file for Unity's GameObject and Prefab
+* [Field3D](https://github.com/imageworks/Field3D) A library for storing voxel data on disk and in memory.
+  
 ## Transparency
 * [unity-dithered-transparency-shader](https://github.com/gkjohnson/unity-dithered-transparency-shader) Unity material and shader for applying clipped, dithered transparency
 * [Dithering-Unity3d](https://github.com/mcraiha/Dithering-Unity3d)  Dithering algorithms for Unity3d
