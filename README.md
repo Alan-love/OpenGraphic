@@ -1003,6 +1003,7 @@ Other.....
 * [kahypar](https://github.com/kahypar/kahypar) KaHyPar is a multilevel hypergraph partitioning framework providing direct k-way and recursive bisection based partitioning algorithms that compute solutions of very high quality.
 * [KaHIP](https://github.com/KaHIP/KaHIP) KaHIP -- Karlsruhe HIGH Quality Partitioning.
 #### DelaunayTriangulation
+* [TriWild](https://github.com/wildmeshing/TriWild) TriWild: Robust Triangulation with Curve Constraints 
 * [Triangle.NET](https://github.com/wo80/Triangle.NET)  :thumbsup:  C# / .NET version of Jonathan Shewchuk's Triangle mesh generator. [Triangle.Net-for-Unity](https://github.com/Nox7atra/Triangle.Net-for-Unity)   
 * [voronoi](https://github.com/JCash/voronoi) A C implementation for creating 2D voronoi diagrams
 * [poly2tri](https://github.com/greenm01/poly2tri) Fast and Robust Simple Polygon Triangulation With/Without Holes  [poly2tri-cs](https://github.com/MaulingMonkey/poly2tri-cs)  
