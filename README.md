@@ -1328,6 +1328,7 @@ Other.....
 ## Animation
 * [ozz-animation](https://github.com/guillaumeblanc/ozz-animation) open source c++ 3d skeletal animation library and toolset
 * [DMotion](https://github.com/gamedev-pro/dmotion) DMotion - A high level Animation Framework for Unity DOTS
+* [Honami-Animation-System](https://github.com/loyal-studio/Honami-Animation-System) Honami Animation System is a complete, from-scratch alternative to Unity's built-in Animator. Designed for Unity 6, it gives you a powerful node-graph editor, built-in procedural rigging and seamless Timeline integration - all at zero runtime allocation cost.
 * [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) Mesh Animation is lightweight library for rendering hundreds of meshes in one draw call with GPU instancing.
 * [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker) Animation Texture Baker for Unity
 * [GPUInstance](https://github.com/mkrebser/GPUInstance) Instancing & Animation library for Unity3D
