@@ -1360,6 +1360,7 @@ Other.....
 * [dem-bones](https://github.com/electronicarts/dem-bones) An automated algorithm to extract the linear blend skinning (LBS) from a set of example poses
 * [d4rkAvatarOptimizer](https://github.com/d4rkc0d3r/d4rkAvatarOptimizer) d4rkpl4y3r's VRChat avatar 3.0 optimizer that aims to reduce skinned mesh & material count.
 * [MeshDeformUnity](https://github.com/PacosLelouch/MeshDeformUnity) Real-time mesh skinning with Direct Delta Mush algorithm implemented in Unity 2020.3.13.
+* [velocity_skinning_replicability](https://github.com/drohmer/velocity_skinning_replicability) Velocity Skinning - Replicability Stamp
 
 ## Particle
 * [XParticle](https://github.com/antoinefournier/XParticle)
