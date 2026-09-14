@@ -972,7 +972,8 @@ Other.....
 #### Color
 * [OpenColorIO](https://github.com/imageworks/OpenColorIO) A color management framework for visual effects and animation http://opencolorio.org
 * [GLSL-Color-Spaces](https://github.com/tobspr/GLSL-Color-Spaces) Utility functions to convert between various color spaces in GLSL
-* [colour](https://github.com/colour-science/colour) Colour Science for Python https://www.colour-science.org  [colour-unity](https://github.com/colour-science/colour-unity)   
+* [colour](https://github.com/colour-science/colour) Colour Science for Python https://www.colour-science.org  [colour-unity](https://github.com/colour-science/colour-unity)
+* [alwan](https://github.com/soufianekhiat/alwan) Colour Science library, dependency-free in pure C (C11)
 * [color](https://github.com/dmilos/color) ++ library thats implemets class color. Available models: RGB, HSL, HSV, CMY, CMYK, YIQ, YUV and growing.  
 * [colormap-shaders](https://github.com/kbinani/colormap-shaders) A collection of shaders to draw color maps.
 * [mixbox](https://github.com/scrtwpns/mixbox)  :thumbsup:   Mixbox is a library for natural color mixing based on real pigments.
