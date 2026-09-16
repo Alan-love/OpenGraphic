@@ -486,6 +486,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Ceto](https://github.com/Scrawk/Ceto) :thumbsup: Ceto: Ocean system for Unity
 * [GodotOceanWaves](https://github.com/2Retr0/GodotOceanWaves) FFT-based ocean-wave rendering, implemented in Godot
 * [Water](https://github.com/GarrettGunnell/Water) Sum of sines and fft fluid simulation with a physically based water shader
+* [water](https://github.com/marklundin/water) Real-time water and atmospheric scattering for PlayCanvas, with nine cinematic studies and reusable Editor components.
 * [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)  [Ocean-URP](https://github.com/gasgiant/Ocean-URP) FFT ocean for Unity
 * [EncinoWaves](https://github.com/blackencino/EncinoWaves) Implementation of "Empirical Directional Wave Spectra for Computer Graphics" paper by Christopher Horvath
 * [HigWaterSystem2](https://github.com/Higgins-PT/HigWaterSystem2) Hig Water System 2.0 is an advanced, user-friendly, and realistic ocean surface rendering solution focused on simulating lifelike visuals.
