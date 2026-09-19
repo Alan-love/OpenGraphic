@@ -237,6 +237,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Path tracing
 * [minpt](https://github.com/hi2p-perim/minpt) A path tracer in 300 lines of C++
 * [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) :thumbsup: A GLSL Path Tracer
+* [vk_gltf_renderer](https://github.com/nvpro-samples/vk_gltf_renderer) Vulkan ray tracing glTF 2.0 renderer — RTX path tracer with PBR materials, AI denoising (DLSS, OptiX), and scene editing.
 * [path_tracer](https://github.com/MomentsInGraphics/path_tracer) :thumbsup:  An educational path tracer written in C using Vulkan to supplement a lecture series on path tracing.
 * [PSRayTracing](https://github.com/define-private-public/PSRayTracing) A (modern) C++ implementation of the first two books of the Peter Shirley Ray Tracing mini-books
 * [rayn](https://github.com/termhn/rayn) A small path tracing renderer written in Rust.
