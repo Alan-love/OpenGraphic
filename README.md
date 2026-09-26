@@ -63,6 +63,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [o3de](https://github.com/o3de/o3de) https://www.o3de.org/
 * [godot](https://github.com/godotengine/godot) Godot Engine – Multi-platform 2D and 3D game engine https://godotengine.org
 * [WickedEngine](https://github.com/turanszkij/WickedEngine) C++ game engine focusing on modern rendering techniques and performance. https://wickedengine.net
+* [SpartanEngine](https://github.com/PanosK92/SpartanEngine) Game engine with an emphasis on architectual quality and performance
 * [filament](https://github.com/google/filament) Filament is a physically based rendering engine for Android, Windows, Linux and macOS
 * [Falcor](https://github.com/NVIDIAGameWorks/Falcor) Real-Time Rendering Framework, NVIDIA
 * [Klayag](https://github.com/gongminmin/KlayGE) A cross-platform open source game engine with plugin-based architecture
@@ -71,7 +72,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)  http://www.openscenegraph.org 
 * [stride](https://github.com/stride3d/stride)  Stride Game Engine (formerly Xenko)
 * [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) AnKi 3D Engine - OGL/Vulkan backends, modern renderer, scripting, physics and more 
-* [SpartanEngine](https://github.com/PanosK92/SpartanEngine) Game engine with an emphasis on architectual quality and performance
 * [DummyEngine](https://github.com/sergcpp/DummyEngine) Small cross platform Vulkan/OpenGL 3d engine for personal experimentation
 * [ETEngine](https://github.com/Illation/ETEngine) Realtime 3D Game-Engine with a focus on space sim. Written in C++ 14
 * [nebula](https://github.com/gscept/nebula) Nebula is an open-source and free-to-use modern C++ game engine.
