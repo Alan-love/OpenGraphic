@@ -59,11 +59,12 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Engine
 * [UnrealEngine](https://github.com/EpicGames/UnrealEngine) :star: https://www.unrealengine.com/ (source available, no FOSS)
+* [UnrealEngineVite-PhysX](https://github.com/GapingPixel/UnrealEngineVite-PhysX) Hyper performant UE Fork with Full-Suite 9th Gen Rendering features distinct to Epic's UE5. DDGI, PhysX Destruction, Full RT, TressFX, Tessellation, SMAA, Callisto-BRDF. Improved Tooling, PhysX SDK upgrades, modernized toolchain and optimizations tailored for RDNA/Ampere Console Hardware
 * [CRYENGINE](https://github.com/CRYTEK/CRYENGINE_Source) :star:  https://www.cryengine.com/
 * [o3de](https://github.com/o3de/o3de) https://www.o3de.org/
 * [godot](https://github.com/godotengine/godot) Godot Engine – Multi-platform 2D and 3D game engine https://godotengine.org
 * [WickedEngine](https://github.com/turanszkij/WickedEngine) C++ game engine focusing on modern rendering techniques and performance. https://wickedengine.net
-* [SpartanEngine](https://github.com/PanosK92/SpartanEngine) Game engine with an emphasis on architectual quality and performance
+* [SpartanEngine](https://github.com/PanosK92/SpartanEngine) A game engine with a fully bindless, GPU-driven renderer featuring real-time path-traced global illumination, hardware ray tracing, and a physics simulation running at 200Hz
 * [filament](https://github.com/google/filament) Filament is a physically based rendering engine for Android, Windows, Linux and macOS
 * [Falcor](https://github.com/NVIDIAGameWorks/Falcor) Real-Time Rendering Framework, NVIDIA
 * [Klayag](https://github.com/gongminmin/KlayGE) A cross-platform open source game engine with plugin-based architecture
@@ -137,6 +138,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [IDKEngine](https://github.com/BoyBaykiller/IDKEngine) OpenGL Toy-"Engine" with Wavefront Path Tracer and Rasterizer Pipeline with Voxel Cone Tracing/Global Illumination
     
 ## Soft Renderer
+* [CuRast](https://github.com/m-schuetz/CuRast) Cuda-Based Software Rasterization for Billions of Triangles
 * [tinyrenderer](https://github.com/ssloy/tinyrenderer)  A brief computer graphics / rendering course
 * [foolrenderer](https://github.com/cadenji/foolrenderer) A tiny software renderer implemented from scratch without the use of graphics API, used to understand how GPUs work.
 * [OpenSWR](http://openswr.org/) A High Performance, Highly Scalable Software Rasterizer for OpenGL
@@ -421,12 +423,11 @@ Graphic Engine &amp; Game Engine open source list！
 ## Material
 ### Shade Model
 ##### BSDF
+* [openpbr-bsdf](https://github.com/adobe/openpbr-bsdf) Adobe's reference implementation of the OpenPBR BSDF
 * [libbsdf](https://github.com/KimuraRyo/libbsdf) Library for BSDF, BRDF, and BTDF
 * [brdf](https://github.com/wdas/brdf) &nbsp;&nbsp; [brdfExplorer](https://github.com/sotnychenko/brdfExplorer)
-* [BRDFExplorer](https://github.com/Corralx/BRDFExplorer) http://corralx.github.io/projects
-* [Lux](https://github.com/larsbertram69) Lux – open source physically based shader framework for unity
+* [Lux](https://github.com/larsbertram69/Lux-2.02-Personal) Lux 2.02 pbr Shader Framework for Unity 5.6
 * [Alloy](https://github.com/Josh015/Alloy) Alloy physical shader framework for Unity. https://alloy.rustltd.com/
-* [AntonovSuit](https://github.com/cCharkes/AntonovSuit)
 * [brdf](https://github.com/boksajak/brdf) Code sample accompanying the article "Crash Course in BRDF Implementation"
 * [anisotropic_layered_material](https://github.com/tomoya5296/anisotropic_layered_material) Code for "Real-time Rendering of Layered Materials with Anisotropic Normal Distributions", SIGGRAPH ASIA 2019.
 * [WaveOpticsBrdf](https://github.com/lingqi/WaveOpticsBrdf) This code implements the key ideas of the paper: Rendering Specular Microgeometry with Wave Optics, by Ling-Qi Yan, Miloš Hašan, Bruce Walter, Steve Marschner, Ravi Ramamoorthi.
@@ -721,6 +722,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [openvkl](https://github.com/openvkl/openvkl) Intel® Open Volume Kernel Library (Intel® Open VKL) is a collection of high-performance volume computation kernels
 
 ## Acceleration
+* [instanced-mesh](https://github.com/agargaro/instanced-mesh) Enhanced InstancedMesh with frustum culling, fast raycasting (using a BVH), sorting, visibility, LOD, skinning and more.
 #### Frustum Culling
 * [sseculling](https://github.com/nsf/sseculling)
 #### PVS
