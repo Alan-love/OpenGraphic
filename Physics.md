@@ -14,6 +14,9 @@
 * [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev) OpenFOAM Foundation development repository. https://openfoam.org/
 * [zeno](https://github.com/zenustech/zeno) ZEn NOde system https://zenustech.com/
 
+## Simulation Platforms
+* [genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) Simulation platform for general-purpose robotics & embodied AI learning.
+
 ### Collision Detection
 * [reactphysics3d](https://github.com/DanielChappuis/reactphysics3d) Open source C++ physics engine library in 3D
 * [fcl](https://github.com/flexible-collision-library/fcl) Flexible Collision Library 
